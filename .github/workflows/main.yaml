@@ -1,6 +1,5 @@
 name: My Github Actions Workflow
-on: 
-  push
+on: [push]
 
 jobs:
   testing_github: 
